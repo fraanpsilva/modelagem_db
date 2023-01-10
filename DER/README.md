@@ -1,4 +1,4 @@
-# DER
+# DER Clube do Livro
 
 ![alt text](https://github.com/fraanpsilva/modelagem_db/blob/master/img/DER.png)
 
